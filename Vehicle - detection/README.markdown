@@ -127,9 +127,4 @@ Vehicle - detection/
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or contributions, contact [Your Name] at [your.email@example.com] or via [GitHub](https://github.com/your-username).
-
----
-
 Built with 🚗💻 for computer vision enthusiasts!
